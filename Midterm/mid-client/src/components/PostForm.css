@@ -1,0 +1,106 @@
+.post-form {
+}
+
+.post-form .alert {
+    padding: 1rem;
+}
+
+.post-form .mood {
+    margin: 0 0 0.5rem 0;
+}
+
+.post-form .mood-toggle {
+    min-width: 100%;
+}
+
+.post-form .mood i {
+    text-align: center;
+    width: 1rem;
+}
+
+
+.post-form .input {
+    width: 100%;
+    margin: 0 0 0.5rem 0;
+}
+
+@media (min-width: 576px) {
+    .post-form .mood {
+        margin: 0 0.5rem 0 0;
+    }
+
+    .post-form .input {
+        margin: 0 0.5rem 0 0;
+    }
+
+}
+
+.post-form .btn-post {
+    width: 100%;
+}
+
+.post-form .formShow {
+    position: fixed;
+    right: 5rem;
+    bottom: 5rem;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 999px;
+    font-size: 3rem;
+    font-weight: bolder;
+    z-index: 2000;
+}
+
+.btn-text {
+    color: black;
+}
+
+.selectparent {
+    background-color: rgb(230, 230, 230)!important;
+}
+
+.selectchild {
+    background-color: rgb(230, 230, 230)!important;
+}
+
+
+/*.post-form {
+}
+
+.post-form .alert {
+    padding: 1rem;
+}
+
+.post-form .mood {
+    margin: 0 0 0.5rem 0;
+}
+
+.post-form .mood-toggle {
+    min-width: 100%;
+}
+
+.post-form .mood i {
+    text-align: center;
+    width: 1rem;
+}
+
+
+.post-form .input {
+    width: 100%;
+    margin: 0 0 0.5rem 0;
+}
+
+@media (min-width: 576px) {
+    .post-form .mood {
+        margin: 0 0.5rem 0 0;
+    }
+
+    .post-form .input {
+        margin: 0 0.5rem 0 0;
+    }
+}
+
+.post-form .btn-post {
+    width: 100%;
+}
+*/

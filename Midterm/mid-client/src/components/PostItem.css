@@ -1,0 +1,86 @@
+.post-item {
+    width: 100%;
+}
+
+.post-item .post {
+    width: 100%;
+    min-height: 20rem;
+}
+
+.Yellow {
+    background-color:rgb(255, 253, 152) !important;
+}
+.Pink{
+    background-color:rgb(239, 168, 184) !important;
+}
+.Blue{
+    background-color:rgb(159, 187, 204) !important;
+}
+.Green{
+    background-color:rgb(189, 228, 167) !important;
+}
+.Purple{
+    background-color:rgb(174, 105, 189) !important;
+}
+
+#icon {
+    border-radius: 999px;
+    text-align: center;
+    font-size: 3rem;
+    width: 5rem;
+    height: 5rem;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: ;
+    left: ;
+
+}
+
+img {
+    margin-top: 0.6rem;
+    width: 2.5rem;
+}
+
+.post-item .wrap {
+    width: 100%;
+    padding-left: 0.75rem;
+    overflow: hidden;
+}
+
+.post-item .ts {
+    color: dimgray;
+    font-size: 1.1rem;
+    margin-bottom: 0.25rem;
+    position: relative;
+    top:;
+    left: 0.5rem;
+}
+
+/*.text {
+    white-space: pre-wrap;
+    max-width: 100%;
+    max-height: 100%;
+}*/
+
+
+.post-item Button {
+    background-color: rgba(0, 0, 0, 0);
+    color: gray;
+    border-color: rgba(0, 0, 0, 0);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 999px;
+    position: relative;
+    top: -1.5rem;
+    right: -0.5rem;
+}
+
+.post-item Button:hover {
+    color: black;
+    font-size: 1.2rem;
+}
+
+Card {
+    height: 10rem;
+}

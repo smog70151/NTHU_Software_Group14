@@ -1,0 +1,14 @@
+.signupform {
+    background-color: rgba(255, 255, 255, 0.4);
+    margin: 0 auto;
+    padding: 0 0 0 0;
+    max-width: 486px;
+    top:10% !important;
+    position: relative;
+}
+
+.signuptext {
+
+    text-align: center;
+    margin: 0 0 0 0;
+}

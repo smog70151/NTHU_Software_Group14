@@ -1,0 +1,26 @@
+.photo-list {
+    transition: all 0.6s;
+}
+
+.empty {
+    height: 8rem !important;
+    /*border-color: rgba(255, 255, 255, 0);*/
+    background-color: transparent !important;
+}
+
+.empty-text {
+    text-align: center!important;
+    color: rgba(255, 255, 255, 0.7)!important;
+}
+
+.LGroupItem {
+    padding: 0 !important;
+    border: 0!important;
+    background-color: rgba(255, 255, 255, 0);
+    width: auto;
+    align-items: center;
+}
+
+.deck {
+    width: 100%;
+}

@@ -1,0 +1,45 @@
+.main {
+    height: 100%;
+}
+
+.main .footer {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+    padding: 6rem 2rem 2rem 2rem;
+}
+
+.main .role {
+    position: relative;
+}
+
+@media (min-width: 576px) {
+    .main .role {
+        width: 10rem;
+    }
+}
+
+.bg {
+    background-color: rgb(150, 150, 150);
+}
+
+#F {
+    color: rgb(235, 138, 25);
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+
+#amilia {
+    color: white;
+}
+
+.roleBtn {
+    background-color: rgba(0, 0, 0, 0)!important;
+    color: white!important;
+    opacity: 1!important;
+}
+
+.roleBtn:hover {
+    background-color: steelblue;
+    color: white;
+    opacity: 1!important;
+}

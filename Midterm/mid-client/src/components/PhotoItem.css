@@ -1,0 +1,17 @@
+.photo-item {
+    width: 100%;
+    transition: all 0.6s;
+}
+
+.photo-item .photo {
+    width: 100%;
+}
+
+.photo-item .photo img {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    border: 1px ;
+    border-color: white;
+    border-style: dotted;
+}

@@ -1,0 +1,22 @@
+.post-list {
+
+}
+
+.post-list .empty {
+    height: 8rem;
+    border-color: rgba(255, 255, 255, 0);
+    background-color: transparent;
+}
+
+.post-list .empty-text {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.listGroupItem {
+    border-radius: 0.3rem;
+}
+
+.deck {
+    width: 100%;
+}
